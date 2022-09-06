@@ -1,13 +1,9 @@
-# Atividade Planejamento de Carreira
+# Atividade Python
 
-1. Pesquise: Certificação x Graduação: qual melhor caminho para a profissionalização?
+1. Faça um Programa que converta metros para centímetros.
 
-2. Escolha uma das seguintes certificações na área de TI e cite suas principais características, como obter a certificação e o valor da certificação. (ITIL, CoBIT, VMware, Oracle, AWS, PMP)
+2. Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
 
-3. Quais as áreas com alta demanda no mercado de TI?
+3. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
 
-4. Pesquise por 3 profissões na área de TI e apresente suas características e média salarial no Brasil.
-
-5. Dentre as profissões na área de TI que você conheceu, qual mais chamou sua atenção? Por quê?
-
-6. Pesquise sobre a modalidade de trabalho Home Office muito presente na área de TI e descreva como funciona e quais as principais vantagens.
+4. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
