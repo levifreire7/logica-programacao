@@ -22,7 +22,7 @@
 
 10. PROBLEMA: Seja uma equação de primeiro grau da forma f(x) = ax + b.
 
-Desenvolva um programa em linguagem C que receba os valores de a e de b e retorne a solução da equação.
+Escreva um algoritmo que receba os valores de a e de b e retorne a solução da equação.
 
 NOTA: A solução de uma equação do primeiro grau é dada por: x = -b/a.
 
