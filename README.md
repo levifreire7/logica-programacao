@@ -20,3 +20,20 @@
 
 9. Faça um programa que solicite a base e altura de um retângulo e informe sua área e perímetro. 
 
+### Operadores Aritméticos Python
+
+10. Crie um programa que leia um número inteiro e mostre seu sucessor.
+
+11. Crie um programa que leia um número inteiro e mostre seu antecessor.
+
+12. Crie um programa que leia um número inteiro e mostre o dobro desse número.
+
+13. Crie um programa que leia um número inteiro e mostre a metade desse número.
+
+15. Crie um programa que leia dois números inteiros e mostre o valor da soma entre esses dois números.
+
+15. Crie um programa que leia dois números inteiros e mostre o resultado do primeiro elevado ao segundo.
+
+16. Dado o seu ano de nascimento e o ano atual elaborar um algoritmo que calcule e escreva a sua idade.
+
+17. Dado um número real positivo, determinar sua parte inteira e sua parte fracionária.
