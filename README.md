@@ -20,9 +20,3 @@
 
 9. Faça um programa que solicite a base e altura de um retângulo e informe sua área e perímetro. 
 
-10. PROBLEMA: Seja uma equação de primeiro grau da forma f(x) = ax + b.
-
-Escreva um algoritmo que receba os valores de a e de b e retorne a solução da equação.
-
-NOTA: A solução de uma equação do primeiro grau é dada por: x = -b/a.
-
