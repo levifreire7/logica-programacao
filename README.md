@@ -45,3 +45,21 @@
 20. Escreva um programa que leia a quantidade de dias, horas, minutos e segundos do usuário. Calcule o total em segundos
 
 21. Faça um programa que calcule o aumento de um salário. Ele deve solicitar o valor do salário e a porcentagem do aumento. Exiba o valor do aumento e do novo salário.
+
+#### Novas questões
+
+22. Escreva um programa que pegue um número e imprima seu quadrado.
+
+23. Dado um número inteiro, imprima seu último dígito.
+
+24. Um carro pode percorrer uma distância de N quilômetros por dia. Quantos dias serão necessários para percorrer uma rota de comprimento M quilômetros? O programa obtém dois números: N e M.
+
+25. Um cupcake custa A reais e B centavos. Determine quantos reais e centavos alguém deve pagar por N cupcakes. Um programa obtém três números: A, B, N. Deve imprimir dois números: custo total em reais e centavos.
+
+26. Faça um programa que solicite o preço de uma mercadoria e o percentual de desconto. Exiba o valor do desconto e o preço a pagar.
+
+27. Escreva um programa que calcule o tempo de uma viagem de carro. Pergunte a distância a percorrer e a velocidade média esperada para a viagem.
+
+28. Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado pelo usuário, assim como a quantidade de dias pelos quais o carro foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60 por dia e R$ 0,15 por km rodado.
+
+29. Escreva um programa para calcular a redução do tempo de vida de um fumante. Pergunte a quantidade de cigarros fumados por dia e quantos anos ele já fumou. Considere que um fumante perde 10 minutos de vida a cada cigarro, e calcule quantos dias de vida um fumante perderá. Exiba o total em dias.
