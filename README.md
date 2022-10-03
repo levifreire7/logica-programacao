@@ -1,65 +1,29 @@
-# Atividade Python
+# Atividade Portugol - condicionais
 
-1. Faça um Programa que converta metros para centímetros.
+1- Crie um algoritmo que leia um número e alerte quando o mesmo for maior do que 100.
 
-2. Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+2- Crie um algoritmo que leia uma senha fornecida pelo usuário composta por caracteres para informar se a senha é válida ou inválida. A senha do sistema corresponde a palavra “PORTUGOL”. Obs.: O algoritmo não faz distinção de letras maiúsculas e minúsculas.
 
-3. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
+3- Crie um algoritmo que leia um número e alerte quando o mesmo estiver entre 100 e 500.
 
-4. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
+4- Crie um algoritmo que leia duas notas para calcular a média do aluno e determinar se o mesmo foi aprovado ou reprovado. A média para aprovação é 7.
 
-# Atividade Portugol
+5- Crie um algoritmo que leia um número inteiro e informe se ele é ou não divisível por 5.
 
-5. Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor.
+6- Crie um algoritmo que leia um número inteiro e informe se ele é par ou ímpar.
 
-6. Escreva um algoritmo para ler o número total de eleitores de um município, o número de votos brancos, nulos e válidos. Calcular e escrever o percentual que cada um representa em relação ao total de eleitores.
+7- Crie um algoritmo que leia dois valores diferentes e determine o maior.
 
-7. Escreva um algoritmo que leia dois números inteiros e exiba o resto da divisão do primeiro número pelo segundo.
+8- Crie um algoritmo que após receber o Salário Bruto, calcule o salário líquido descontando 10% quando o salário bruto for menor que R$ 2000, caso contrário descontar 20%. No final, exiba o salário líquido.
 
-8. Desenvolva um algoritmo que receba dois valores do tipo real, depois disso o sistema irá calcular a soma, subtração, multiplicação e divisão.
+9- Um comerciante comprou um produto e quer vendê-lo com um lucro de 50% se o valor da compra for menor que R$ 200, caso contrário o lucro será de 30%. Crie um algoritmo que leia o valor da compra e exiba o valor da venda.
 
-9. Faça um programa que solicite a base e altura de um retângulo e informe sua área e perímetro. 
+10- Crie um algoritmo que leia a média das duas unidades para calcular a sua média final. Em seguida exiba a média final e o resultado que pode ser aprovado, prova final ou reprovado. A média de aprovação é 7, menor que 3 para reprovação e as demais prova final.
 
-### Operadores Aritméticos Python
+11- Crie um algoritmo que leia três lados de um triângulo e determine se ele é equilátero, isósceles ou escaleno. Quando os três lados forem iguais trata-se de um triângulo equilátero, dois lados iguais é um triângulo isósceles e os três lados diferentes é um triângulo escaleno.
 
-10. Crie um programa que leia um número inteiro e mostre seu sucessor.
+14- Crie um algoritmo que leia três números e exibe o maior deles. Caso os números sejam iguais exibir a seguinte mensagem: “Número idênticos”.
 
-11. Crie um programa que leia um número inteiro e mostre seu antecessor.
+15- Crie um algoritmo que leia três números e exibe os números em ordem crescente.
 
-12. Crie um programa que leia um número inteiro e mostre o dobro desse número.
-
-13. Crie um programa que leia um número inteiro e mostre a metade desse número.
-
-15. Crie um programa que leia dois números inteiros e mostre o valor da soma entre esses dois números.
-
-15. Crie um programa que leia dois números inteiros e mostre o resultado do primeiro elevado ao segundo.
-
-16. Dado o seu ano de nascimento e o ano atual elaborar um algoritmo que calcule e escreva a sua idade.
-
-17. Dado um número real positivo, determinar sua parte inteira e sua parte fracionária.
-
-18. Faça um programa que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o total a receber no final do mês, com duas casas decimais.
-
-19. Escreva um programa que leia um valor em metros e o exiba convertido em milímetros 
-
-20. Escreva um programa que leia a quantidade de dias, horas, minutos e segundos do usuário. Calcule o total em segundos
-
-21. Faça um programa que calcule o aumento de um salário. Ele deve solicitar o valor do salário e a porcentagem do aumento. Exiba o valor do aumento e do novo salário.
-
-#### Novas questões
-
-22. Escreva um programa que pegue um número e imprima seu quadrado.
-
-23. Dado um número inteiro, imprima seu último dígito.
-
-24. Um carro pode percorrer uma distância de N quilômetros por dia. Quantos dias serão necessários para percorrer uma rota de comprimento M quilômetros? O programa obtém dois números: N e M.
-
-25. Um cupcake custa A reais e B centavos. Determine quantos reais e centavos alguém deve pagar por N cupcakes. Um programa obtém três números: A, B, N. Deve imprimir dois números: custo total em reais e centavos.
-
-26. Faça um programa que solicite o preço de uma mercadoria e o percentual de desconto. Exiba o valor do desconto e o preço a pagar.
-
-27. Escreva um programa que calcule o tempo de uma viagem de carro. Pergunte a distância a percorrer e a velocidade média esperada para a viagem.
-
-28. Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado pelo usuário, assim como a quantidade de dias pelos quais o carro foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60 por dia e R$ 0,15 por km rodado.
-
-29. Escreva um programa para calcular a redução do tempo de vida de um fumante. Pergunte a quantidade de cigarros fumados por dia e quantos anos ele já fumou. Considere que um fumante perde 10 minutos de vida a cada cigarro, e calcule quantos dias de vida um fumante perderá. Exiba o total em dias.
+16- Sabendo que somente os municípios que possuem mais de 200.000 eleitores têm segundo turno nas eleições para prefeito quando o 1º colocado não obtém mais do que 50% dos votos, crie um algoritmo que leia o nome do município, a quantidade de eleitores e o número de votos do candidato mais votados e informe se terá ou não segundo turno na eleição municipal.
