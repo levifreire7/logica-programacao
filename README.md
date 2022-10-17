@@ -28,8 +28,27 @@
 
 16- Sabendo que somente os municípios que possuem mais de 200.000 eleitores têm segundo turno nas eleições para prefeito quando o 1º colocado não obtém mais do que 50% dos votos, crie um algoritmo que leia o nome do município, a quantidade de eleitores e o número de votos do candidato mais votados e informe se terá ou não segundo turno na eleição municipal.
 
-# Atividade Python
+# Atividade Python condicionais
 
 17- Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
 
 18- Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
+
+19- Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
+Dicas:
+Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
+Triângulo Equilátero: três lados iguais;
+Triângulo Isósceles: quaisquer dois lados iguais;
+Triângulo Escaleno: três lados diferentes;
+
+20- Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
+
+21- Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
+  Média de Aproveitamento  Conceito
+  Entre 9.0 e 10.0        A
+  Entre 7.5 e 9.0         B
+  Entre 6.0 e 7.5         C
+  Entre 4.0 e 6.0         D
+  Entre 4.0 e zero        E
+  
+  O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C ou “REPROVADO” se o conceito for D ou E.
