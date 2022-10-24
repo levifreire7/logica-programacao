@@ -22,3 +22,15 @@ marcando os números que forem divisíveis por 4, exatamente como mostrado abaix
 30 29 [28] 27 26 25 [24] 23 22 21 [20] 19 18 17 [16]...
 
 # Atividade Python - laços de repetição
+
+7- Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada. A saída deve ser conforme o exemplo abaixo:
+
+Tabuada de 5:
+
+5 X 1 = 5
+
+5 X 2 = 10
+
+...
+
+5 X 10 = 50
