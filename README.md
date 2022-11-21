@@ -1,69 +1,25 @@
-# Atividade Portugol - laços de repetição
+# Atividade Portugol - Funções
 
-1- Escreva um programa que mostre na tela a seguinte contagem:
-6 7 8 9 10 11 Acabou!
+1- Faça um programa que receba dois valores via teclado do tipo inteiro, onde esses valores serão repassados via parâmetros para uma função chama da soma que tem o objetivo de somar os valores e imprimir o resultado do processamento.
 
-2- Faça um algoritmo que mostre na tela a seguinte contagem:
-10 9 8 7 6 5 4 3 Acabou!
+2 - Desenvolva um sistema que mostre ao usuário um menu de opções: 1- Somar 2- Subtrair 3- Multiplicar e 4- Dividir; Depois disso o sistema irá receber do usuário dois valores do tipo real, e de acordo com a opção escolhida, deve ser chamado uma função para retornar o resultado da operação de acordo com a opção escolhida. Neste sistema você deve criar uma função somar, subtrair, multiplicar e uma última para dividir.
 
-3- Crie um aplicativo que mostre na tela a seguinte contagem:
-0 3 6 9 12 15 18 Acabou!
+3 - Faça uma função que recebe por parâmetro o raio de uma esfera e calcula o seu volume (v = 4/3.P .R3).
 
-4- Desenvolva um programa que mostre na tela a seguinte contagem:
-100 95 90 85 80 ... 0 Acabou!
+4 - Faça uma função que verifique se um valor é perfeito ou não. Um valor é dito perfeito quando ele é igual a soma dos seus divisores excetuando ele próprio. (Ex: 6 é perfeito, 6 = 1 + 2 + 3, que são seus divisores). A função deve retornar um valor booleano.
 
-5- Faça um algoritmo que pergunte ao usuário um número inteiro e positivo
-qualquer e mostre uma contagem até esse valor:
-Ex: Digite um valor: 35
-Contagem: 1 2 3 4 5 6 7 ... 33 34 35 Acabou!
+# Atividade Python - Funções
 
-6- Desenvolva um algoritmo que mostre uma contagem regressiva de 30 até 1,
-marcando os números que forem divisíveis por 4, exatamente como mostrado abaixo:
-30 29 [28] 27 26 25 [24] 23 22 21 [20] 19 18 17 [16]...
+5 - Faça um programa, com uma função que necessite de três argumentos, e que forneça a soma desses três argumentos.
 
-## Utilizando o laço PARA
+6 - Faça um programa, com uma função que necessite de um argumento. A função retorna o valor de caractere ‘P’, se seu argumento for positivo, e ‘N’, se seu argumento for zero ou negativo.
 
-7- Faça um programa que imprima um contador iniciando em um e terminando em 100.
+7 - Faça um programa que receba do usuário um valor referente às opções: 1- Somar; 2- Subtrair; 3- Dividir e 4- Multiplicar. Para cada opção que o sistema disponibiliza deve ser criada uma função para efetuar o processamento, ou seja, o programa terá que passar os valores via parâmetro para cada função de acordo com a opção escolhida.
 
-8- Desenvolva um algoritmo que receba um valor inicial e um valor final, com isso o sistema ira imprimir a contagem do valor inicial até o valor final, vale lembra-lo de que isso só será possível, caso o valor inicial seja menor que o valor final.
+8 - 1. Faça uma função chamada somaImposto. A função possui dois parâmetros:
 
-9- Desenvolva um programa que imprima os valores pares entre um e vinte.
+a) taxaImposto, que é a porcentagem de imposto sobre vendas
 
+b) custo, que é o custo de um item antes do imposto.
 
-# Atividade Python - laços de repetição
-
-10- Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada. A saída deve ser conforme o exemplo abaixo:
-
-Tabuada de 5:
-
-5 X 1 = 5
-
-5 X 2 = 10
-
-...
-
-5 X 10 = 50
-
-11- O Sr. Manoel Joaquim acaba de adquirir uma panificadora e pretende implantar a metodologia da tabelinha, que já é um sucesso na sua loja de 1,99. Você foi contratado para desenvolver o programa que monta a tabela de preços de pães, de 1 até 50 pães, a partir do preço do pão informado pelo usuário, conforme o exemplo abaixo:
-
-Preço do pão: R$ 0.18
-
-Panificadora Pão de Ontem - Tabela de preços
-
-1 - R$ 0.18
-
-2 - R$ 0.36
-
-...
-
-50 - R$ 9.00
-
-## Utilizando o laço FOR
-
-12- Faça um programa que imprima um contador iniciando em dez e terminando em trinta.
-
-13- Desenvolva um algoritmo que receba um valor inicial e um valor final, com isso o sistema ira imprimir a contagem do valor inicial até o valor final, vale lembra-lo de que isso só será possível, caso o valor inicial seja menor que o valor final.
-
-14- Desenvolva um programa que imprima os valores pares entre um e vinte.
-
-15- Desenvolva um programa que imprima os valores ímpares entre vinte e quarenta.
+A função retorna o valor de custo alterado para incluir o imposto sobre vendas.
