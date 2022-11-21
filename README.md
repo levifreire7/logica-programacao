@@ -16,7 +16,7 @@
 
 7 - Faça um programa que receba do usuário um valor referente às opções: 1- Somar; 2- Subtrair; 3- Dividir e 4- Multiplicar. Para cada opção que o sistema disponibiliza deve ser criada uma função para efetuar o processamento, ou seja, o programa terá que passar os valores via parâmetro para cada função de acordo com a opção escolhida.
 
-8 - 1. Faça uma função chamada somaImposto. A função possui dois parâmetros:
+8 - Faça uma função chamada somaImposto. A função possui dois parâmetros:
 
 a) taxaImposto, que é a porcentagem de imposto sobre vendas
 
