@@ -22,5 +22,5 @@ A soma de todos os valores do vetor é: 79.
 
 # Atividade Portugol Studio - Matrizes
 
-5- Desenvolva um programa que faça com que o usuário informe valores desenvolva um programa que tenha uma matriz 2x2, de modo que o usuário informe valores do tipo inteiro para serem armazenados na variável do tipo matriz, depois disso o sistema irá perguntar ao usuário o valor da posição da linha e da coluna que ele deseja saber, qual valor que foi armazenado nesta posição.
+6- Desenvolva um programa que faça com que o usuário informe valores desenvolva um programa que tenha uma matriz 2x2, de modo que o usuário informe valores do tipo inteiro para serem armazenados na variável do tipo matriz, depois disso o sistema irá perguntar ao usuário o valor da posição da linha e da coluna que ele deseja saber, qual valor que foi armazenado nesta posição.
 
