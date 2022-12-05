@@ -1,25 +1,26 @@
-# Atividade Portugol - Funções
+# Atividade Portugol Studio - Vetores
 
-1- Faça um programa que receba dois valores via teclado do tipo inteiro, onde esses valores serão repassados via parâmetros para uma função chama da soma que tem o objetivo de somar os valores e imprimir o resultado do processamento.
+1- Desenvolva um programa que tenha um vetor do tipo cadeia e que tenha tamanho igual a cinco, onde o mesmo contenha os seguintes nomes: Carlos, João, Maria e Roberto. Depois de declarar de forma direto todos os nomes deverão aparecer um abaixo do outro com a identificação da sua posição dentro do vetor.
 
-2 - Desenvolva um sistema que mostre ao usuário um menu de opções: 1- Somar 2- Subtrair 3- Multiplicar e 4- Dividir; Depois disso o sistema irá receber do usuário dois valores do tipo real, e de acordo com a opção escolhida, deve ser chamado uma função para retornar o resultado da operação de acordo com a opção escolhida. Neste sistema você deve criar uma função somar, subtrair, multiplicar e uma última para dividir.
+2- Faça um programa que contenha um vetor para armazenar nome dos alunos, um para armazenar os dados da primeira nota e um último para armazenar os registros da segunda nota, onde ambos terão o mesmo tamanho que é cinco. Depois disso o programa irá calcular a média de cada aluno utilizando as duas notas e ao final será impresso o nome do aluno e o valor da sua média.
 
-3 - Faça uma função que recebe por parâmetro o raio de uma esfera e calcula o seu volume (v = 4/3.P .R3).
+3- Utilizando a lógica da questão anterior, faça uma alteração no programa de modo que seja impresso se aluno aprovado, caso sua média seja maior ou igual a seis e reprovado caso a média seja menor que seis.
 
-4 - Faça uma função que verifique se um valor é perfeito ou não. Um valor é dito perfeito quando ele é igual a soma dos seus divisores excetuando ele próprio. (Ex: 6 é perfeito, 6 = 1 + 2 + 3, que são seus divisores). A função deve retornar um valor booleano.
+4- Crie um algoritmo que peça ao usuário que informe oito números inteiros e os armazene-os em um
+vetor. Apresente o maior elemento e a posição em que ele se encontra no vetor. Exemplo:
 
-# Atividade Python - Funções
+|4|1|3|7|13|6|-5|9|
 
-5 - Faça um programa, com uma função que necessite de três argumentos, e que forneça a soma desses três argumentos.
+O maior valor do vetor informado é 13 e ele se encontra no índice 4 do vetor.
 
-6 - Faça um programa, com uma função que necessite de um argumento. A função retorna o valor de caractere ‘P’, se seu argumento for positivo, e ‘N’, se seu argumento for zero ou negativo.
+5- Crie um algoritmo que peça ao usuário que informe 10 números inteiros, armazene-os em um vetor
+e apresente a soma de todos os valores. Exemplo:
 
-7 - Faça um programa que receba do usuário um valor referente às opções: 1- Somar; 2- Subtrair; 3- Dividir e 4- Multiplicar. Para cada opção que o sistema disponibiliza deve ser criada uma função para efetuar o processamento, ou seja, o programa terá que passar os valores via parâmetro para cada função de acordo com a opção escolhida.
+|1|3|5|7|8|9|10|11|12|13|
 
-8 - Faça uma função chamada somaImposto. A função possui dois parâmetros:
+A soma de todos os valores do vetor é: 79.
 
-a) taxaImposto, que é a porcentagem de imposto sobre vendas
+# Atividade Portugol Studio - Matrizes
 
-b) custo, que é o custo de um item antes do imposto.
+5- Desenvolva um programa que faça com que o usuário informe valores desenvolva um programa que tenha uma matriz 2x2, de modo que o usuário informe valores do tipo inteiro para serem armazenados na variável do tipo matriz, depois disso o sistema irá perguntar ao usuário o valor da posição da linha e da coluna que ele deseja saber, qual valor que foi armazenado nesta posição.
 
-A função retorna o valor de custo alterado para incluir o imposto sobre vendas.
