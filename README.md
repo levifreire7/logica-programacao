@@ -20,7 +20,7 @@ https://youtu.be/583KlcQM5kM
 
 3. Cite três exemplos de transmissão de dados em série.
 
-4. 3- Qual das alternativas abaixo relacionadas a comunicação serial está
+4. Qual das alternativas abaixo relacionadas a comunicação serial está
 incorreta?
 
 a) Na interface de comunicação serial, somente um bit de informação é
