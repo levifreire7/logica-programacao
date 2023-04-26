@@ -36,5 +36,37 @@ em uma sequência de bits (e vice-versa)
 d) Um conversor é o componente responsável pela conversão paralela
 <=> serial e pelo controle da transmissão
 
-5. Aposente as vantagens e desvantagens da transmissão de dados em
+5. Apresente as vantagens e desvantagens da transmissão de dados em
 paralelo.
+
+
+# Meios de Transmissão Guiados e Não Guiados
+
+### Meios de Transmissão Guiados (Parte 1) 
+
+https://www.youtube.com/watch?v=lAi1P7FQlXM
+
+### Meios de Transmissão Guiados (Parte 2)
+
+https://www.youtube.com/watch?v=s439dntqpOw
+
+
+### Meios de Transmissão Não Guiados (Parte 1)
+
+https://www.youtube.com/watch?v=0d63qT5luxo
+
+### Meios de Transmissão Não Guiados (Parte 2)
+
+https://www.youtube.com/watch?v=4dSVoZi5lN4
+
+## Atividade
+
+1. Cite as duas principais categorias de meios de transmissão.
+
+2. Como os meios de transmissão guiados diferem dos meios de transmissão não guiados?
+
+3. Quais são as três principais classes de meios de transmissão guiados?
+
+4. Qual é a importância do trançado em cabos de par trançado?
+
+5. Cite as vantagens da fibra óptica em relação ao par trançado e ao cabo coaxial.
