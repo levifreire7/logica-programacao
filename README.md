@@ -2,9 +2,9 @@
 
 1. Faça um Programa que peça dois números e imprima o maior deles.
 2. Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
-3. Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar: A mensagem "Aprovado", se a média alcançada for maior ou igual a sete; A mensagem "Reprovado", se a média for menor do que sete; A mensagem "Aprovado com Distinção", se a média for igual a dez.
-4. Faça um Programa que leia três números e mostre o maior deles.
-5. Faça um Programa que leia três números e mostre o maior e o menor deles.
-6. Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
-7. Faça um Programa que leia três números e mostre-os em ordem decrescente.
-8. Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
+3. Crie um algoritmo que leia um número e alerte quando o mesmo for maior do que 100.
+4. Crie um algoritmo que leia uma senha fornecida pelo usuário composta por caracteres para informar se a senha é válida ou inválida. A senha do sistema corresponde a palavra “PORTUGOL”. Obs.: O algoritmo não faz distinção de letras maiúsculas e minúsculas.
+5. Crie um algoritmo que leia um número e alerte quando o mesmo estiver entre 100 e 500.
+6. Crie um algoritmo que leia duas notas para calcular a média do aluno e determinar se o mesmo foi aprovado ou reprovado. A média para aprovação é 7.
+7. Crie um algoritmo que leia um número inteiro e informe se ele é ou não divisível por 5.
+8. Crie um algoritmo que leia um número inteiro e informe se ele é par ou ímpar.
