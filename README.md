@@ -15,13 +15,20 @@
 ## Parte 2
 
 1. Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
+   
     "Telefonou para a vítima?"
+   
     "Esteve no local do crime?"
+   
     "Mora perto da vítima?"
+   
     "Devia para a vítima?"
-    "Já trabalhou com a vítima?" O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
+   
+    "Já trabalhou com a vítima?"
 
-2. Faça um Programa para um caixa eletrônico. O programa deverá perguntar ao usuário a valor do saque e depois informar quantas notas de cada valor serão fornecidas. As notas disponíveis serão as de 1, 5, 10, 50 e 100 reais. O valor mínimo é de 10 reais e o máximo de 600 reais. O programa não deve se preocupar com a quantidade de notas existentes na máquina.
+O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
+
+3. Faça um Programa para um caixa eletrônico. O programa deverá perguntar ao usuário a valor do saque e depois informar quantas notas de cada valor serão fornecidas. As notas disponíveis serão as de 1, 5, 10, 50 e 100 reais. O valor mínimo é de 10 reais e o máximo de 600 reais. O programa não deve se preocupar com a quantidade de notas existentes na máquina.
    
 Exemplo 1: Para sacar a quantia de 256 reais, o programa fornece duas notas de 100, uma nota de 50, uma nota de 5 e uma nota de 1;
 
@@ -31,6 +38,9 @@ Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 
 
     Dicas:
     Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
+   
     Triângulo Equilátero: três lados iguais;
+   
     Triângulo Isósceles: quaisquer dois lados iguais;
+   
     Triângulo Escaleno: três lados diferentes;
