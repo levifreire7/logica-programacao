@@ -45,6 +45,10 @@ Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 
    
     Triângulo Escaleno: três lados diferentes;
 
+4. Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
+
+5. Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. Exiba o resultado da operação escolhida pelo usuário.
+
 # Atividade Sistemas Operacionais Livres
 
 Usando o comando adequado:
