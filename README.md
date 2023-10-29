@@ -67,7 +67,7 @@ f) a partir do diretório corrente, liste o conteúdo da pasta /etc
 
 g) agora liste os arquivos da pasta atual
 
-h) volte ao diretório /home/Documentos
+h) volte ao diretório /home/usuario/Documentos
 
 i) crie uma pasta com o seu nome
 
