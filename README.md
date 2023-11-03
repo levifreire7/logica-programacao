@@ -49,6 +49,22 @@ Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 
 
 5. Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. Exiba o resultado da operação escolhida pelo usuário.
 
+## Parte 3
+
+1. Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
+
+2. Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada. A saída deve ser conforme o exemplo abaixo:
+
+Tabuada de 5:
+
+5 X 1 = 5
+
+5 X 2 = 10
+
+...
+
+5 X 10 = 50
+
 # Atividade Sistemas Operacionais Livres
 
 Usando o comando adequado:
