@@ -65,28 +65,6 @@ Tabuada de 5:
 
 5 X 10 = 50
 
-# Atividade Sistemas Operacionais Livres
-
-Usando o comando adequado:
-
-a) descubra qual o seu diretório corrente em um terminal Linux
-
-b) Navegue até a pasta /home
-
-c) liste todos os arquivos da pasta /home
-
-d) navegue até a pasta /bin
-
-e) certifique-se de qual diretório você se encontra
-
-f) a partir do diretório corrente, liste o conteúdo da pasta /etc
-
-g) agora liste os arquivos da pasta atual
-
-h) volte ao diretório /home/usuario/Documentos
-
-i) crie uma pasta com o seu nome
-
 j) crie um arquivo texto dentro da pasta que você criou com o seu nome
 
 k) exclua o arquivo que você acabou de criar
