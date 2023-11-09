@@ -65,8 +65,12 @@ Tabuada de 5:
 
 5 X 10 = 50
 
-j) crie um arquivo texto dentro da pasta que você criou com o seu nome
+## Parte 4
 
-k) exclua o arquivo que você acabou de criar
+1. Faça um programa que leia 5 números e informe a soma e a média dos números.
 
-l) exclua o diretório que você criou com o seu nome
+2. Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles.
+
+3. Altere o programa anterior para mostrar no final a soma dos números.
+
+4. Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.
