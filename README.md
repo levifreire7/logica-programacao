@@ -74,3 +74,13 @@ Tabuada de 5:
 3. Altere o programa anterior para mostrar no final a soma dos números.
 
 4. Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.
+
+## Parte 5 - Desafios OBI
+
+#### Torneio de tênis
+
+1. https://olimpiada.ic.unicamp.br/pratique/p1/2021/f1/torneio/
+
+#### Divisão do Tesouro
+
+2. https://olimpiada.ic.unicamp.br/pratique/p1/2020/f1/tesouro/
