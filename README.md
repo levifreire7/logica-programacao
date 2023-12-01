@@ -1,86 +1,11 @@
 # ATIVIDADE LÓGICA DE PROGRAMAÇÃO
 
-## Parte 1
+1. Escreva uma função que, dado o valor da conta de um restaurante, calcule e exiba a gorjeta do garçom, considerando 10% do valor da conta.
 
-1. Faça um Programa que peça dois números e imprima o maior deles.
-2. Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
-3. Crie um algoritmo que leia um número e alerte quando o mesmo for maior do que 100.
-4. Crie um algoritmo que leia uma senha fornecida pelo usuário composta por caracteres para informar se a senha é válida ou inválida. A senha do sistema corresponde a palavra “PORTUGOL”. Obs.: O algoritmo não faz distinção de letras maiúsculas e minúsculas.
-5. Crie um algoritmo que leia um número e alerte quando o mesmo estiver entre 100 e 500.
-6. Crie um algoritmo que leia duas notas para calcular a média do aluno e determinar se o mesmo foi aprovado ou reprovado. A média para aprovação é 7.
-7. Crie um algoritmo que leia um número inteiro e informe se ele é ou não divisível por 5.
-8. Crie um algoritmo que leia um número inteiro e informe se ele é par ou ímpar.
+2. Faça uma função que retorne o reverso de um número inteiro informado.
 
+3. Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
 
-## Parte 2
+4. Faça um programa que tenha uma função chamada contador(), que receba três parâmetros: início, fim e passo. Faça a contagem obedecendo os parâmetros.
 
-1. Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
-   
-    "Telefonou para a vítima?"
-   
-    "Esteve no local do crime?"
-   
-    "Mora perto da vítima?"
-   
-    "Devia para a vítima?"
-   
-    "Já trabalhou com a vítima?"
-
-O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
-
-2. Faça um Programa para um caixa eletrônico. O programa deverá perguntar ao usuário a valor do saque e depois informar quantas notas de cada valor serão fornecidas. As notas disponíveis serão as de 1, 5, 10, 50 e 100 reais. O valor mínimo é de 10 reais e o máximo de 600 reais. O programa não deve se preocupar com a quantidade de notas existentes na máquina.
-   
-Exemplo 1: Para sacar a quantia de 256 reais, o programa fornece duas notas de 100, uma nota de 50, uma nota de 5 e uma nota de 1;
-
-Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 100, uma nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 1.
-
-3. Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
-
-    Dicas:
-    Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
-   
-    Triângulo Equilátero: três lados iguais;
-   
-    Triângulo Isósceles: quaisquer dois lados iguais;
-   
-    Triângulo Escaleno: três lados diferentes;
-
-4. Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
-
-5. Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. Exiba o resultado da operação escolhida pelo usuário.
-
-## Parte 3
-
-1. Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
-
-2. Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada. A saída deve ser conforme o exemplo abaixo:
-
-Tabuada de 5:
-
-5 X 1 = 5
-
-5 X 2 = 10
-
-...
-
-5 X 10 = 50
-
-## Parte 4
-
-1. Faça um programa que leia 5 números e informe a soma e a média dos números.
-
-2. Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles.
-
-3. Altere o programa anterior para mostrar no final a soma dos números.
-
-4. Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.
-
-## Parte 5 - Desafios OBI
-
-#### Torneio de tênis
-
-1. https://olimpiada.ic.unicamp.br/pratique/p1/2021/f1/torneio/
-
-#### Divisão do Tesouro
-
-2. https://olimpiada.ic.unicamp.br/pratique/p1/2020/f1/tesouro/
+5. Crie um programa que tenha uma função fatorial() que receba um número inteiro e mostre o fatorial deste número. Caso seja passado um número negativo, mostre a mensagem "Não existe fatorial para números negativos".
