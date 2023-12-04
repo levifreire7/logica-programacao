@@ -15,13 +15,19 @@ Exemplo:
 
 =============================
 
+**Cria uma lista vazia**
+
 frutas = []
+
+**Adiciona elementos na lista**
 
 frutas.append("Abacaxi")
 
 frutas.append("Morango")
 
-frutas.append("Manga")]
+frutas.append("Manga")
+
+**Mostra os elementos da lista**
 
 for i in frutas:
   
