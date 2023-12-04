@@ -24,7 +24,8 @@ frutas.append("Morango")
 frutas.append("Manga")]
 
 for i in frutas:
-  print(i)
+  
+    print(i)
   
 ============================
 
