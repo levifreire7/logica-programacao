@@ -40,3 +40,7 @@ for i in frutas:
 2. Faça um Programa que leia 20 números inteiros e armazene-os numa lista. Armazene os números pares na lista PAR e os números IMPARES na lista impar. Imprima as três listas.
 
 3. Faça um programa que receba a temperatura média de cada mês do ano e armazene-as em uma lista. Após isto, calcule a média anual das temperaturas.
+
+# Como criar um jogo no Scratch 
+
+https://www.youtube.com/watch?v=35UUaueBJNU
